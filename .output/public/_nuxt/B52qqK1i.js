@@ -1,0 +1,1 @@
+import{x as u,y as s,z as r,A as o,B as i,C as c}from"./CDqpiQdD.js";function a(t){const e=t||s();return e?.ssrContext?.head||e?.runWithContext(()=>{if(r())return o(i)})}function x(t,e={}){const n=a(e.nuxt);if(n)return c(t,{head:n,...e})}function d(t,e={}){const n=a(e.nuxt);if(n)return u(t,{head:n,...e})}function h(t,e={}){if(a(e.nuxt))return!1}export{h as a,d as b,x as u};
